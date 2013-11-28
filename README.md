@@ -7,3 +7,7 @@ This file was created per Executive Order M-13-13, issued May 9th, 2013, stating
 As of December 2013, USAID is currently managing this file manually. In the future the agency may shift to a data management platform that will generate this file automagically.
 
 USAID is committed to open data and actively maintaining our public data listing, not only for transparency and accountability but the new avenues open data provides in efficiency and public engagement. We invite you to submit any questions or errors to the issues section of this repo.
+
+#### And for the humans...
+
+The 'human-readable' version of this list machine-readable format of our public data listing is available at http://usaid.gov/data.
