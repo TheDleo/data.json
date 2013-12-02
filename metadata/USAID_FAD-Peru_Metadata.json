@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Peru",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"4f8c7707-b749-43d4-8dcf-3b4df51e6662",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Peru.xml",
+		"format":"xml"
+		}],
+		"spatial": "Peru",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

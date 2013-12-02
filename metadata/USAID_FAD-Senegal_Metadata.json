@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Senegal",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"c1cbddea-6b1b-46fc-a320-ca9c490a522e",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Senegal.xml",
+		"format":"xml"
+		}],
+		"spatial": "Senegal",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

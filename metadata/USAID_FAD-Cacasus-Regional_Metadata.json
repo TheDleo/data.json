@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Caucasus-Regional",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"37142065-4c91-49b4-bd1b-138578d87ff9",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL": "http://usaid.gov/sites/default/files/Caucasus-Regional.xml",
+		"format": "xml"
+		}],
+		"spatial": "Caucasus",
+		"language":["en-US"],
+		"landingPage":"http://usaid.gov/data",
+		"resources":["http://foreignassistance.gov"]
+	}
+]

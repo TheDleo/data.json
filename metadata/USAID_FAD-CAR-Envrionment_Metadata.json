@@ -1,0 +1,21 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Central Africa Regional Program for Environment",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"24eb9c55-4adc-4d23-8c02-7e12bd51758d",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL": "http://usaid.gov/sites/default/files/CAR-Environment.xml",
+		"format": "xml"
+		}],
+		"spatial": "Central Africa",
+		"language":["en-US"],
+		"landingPage":"http://usaid.gov/data",
+		"resources":["http://foreignassistance.gov"]
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Gambia",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"9ca83b67-ad9f-4050-815e-24ac00097bf2",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Gambia.xml",
+		"format":"xml"
+		}],
+		"spatial": "Gambia",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Mexico",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"a15f54c5-51f8-4256-9142-42cb4faaf34e",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Mexico.xml",
+		"format":"xml"
+		}],
+		"spatial": "Mexico",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

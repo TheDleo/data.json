@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, South America Regional",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"0a6dcba1-ba27-4162-a9dc-da7c5a277644",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/South-America-Regional.xml",
+		"format":"xml"
+		}],
+		"spatial": "South America",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

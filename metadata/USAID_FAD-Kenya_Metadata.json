@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Kenya",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"e8b37558-9e25-4afa-8757-b8b672098abd",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Kenya.xml",
+		"format":"xml"
+		}],
+		"spatial": "Kenya",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

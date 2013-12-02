@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Lesotho",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"e1dbb8db-ef16-45cd-bc00-71a0c435d5c3",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Lesotho.xml",
+		"format":"xml"
+		}],
+		"spatial": "Lesotho",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

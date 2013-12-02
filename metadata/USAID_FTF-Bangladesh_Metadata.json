@@ -1,0 +1,12 @@
+[
+	{
+		"title":"Feed the Future Bangladesh: Baseline Integrated Household Survey",
+		"description":"The Bangladesh Integrated Household Survey dataset is a thorough assessment of current standard of food security in Bangladesh taken from 2011-2012. The dataset includes all baseline household surveys made under the USAID-led Feed the Future initiative, a collaborative effort that supports country-owned processes and plans for improving food security and promoting transparency, and within the Zones of Influence as outlined by the Feed the Future Bangladesh plan. The survey was designed and supervised by the International Food Policy Research Institute (IFPRI). The survey was administered by Data Analysis and Technical Assistance, Dhaka, Bangladesh. Funding for the survey was provided by United States Agency for International Development (USAID). To protect the personal information of respondents, all personal identifiable information was removed, and the final dataset has been approved for publication by the Government of Bangladesh.", "keyword":["agriculture","food","feed the future","survey","analysis"], "modified":"2013-04-23", "publisher":"USAID", "identifier":"d6ac2eb7-85f5-4f35-9b45-5777a98972e3",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"language": ["en-US"],
+		"landingPage": "http://usaid.gov/data",
+		"references":["http://www.usaid.gov/sites/default/files/documents/1867/FTF-baseline-Bangladesh-Final-Report.pdf"]
+	}
+]

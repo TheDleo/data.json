@@ -1,0 +1,15 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard",
+		"description":"The Foreign Assistance Dashboard provides a view of U.S. Government foreign assistance funds and enables users to examine, research, and track aid investments in a standard and easy-to-understand format.",
+		"keyword":["fad","foreign assistance","international aid","research","aid"],
+		"modified":"2013-11-21",
+		"publisher":"USAID",
+		"identifier":"dcdec8c8-58f4-4c51-ba5d-0a5cf0b09fdc",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Eurasia Regional",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"6977947d-db93-4928-88eb-8690f8592be9",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Eurasia-Regional.xml",
+		"format":"xml"
+		}],
+		"spatial": "Eurasia Regional",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

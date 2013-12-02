@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, United Arab Emirates",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"c2aa5b26-f8e2-4d79-afe5-ef53972cd669",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/United-Arab-Emirates.xml",
+		"format":"xml"
+		}],
+		"spatial": "United Arab Emirates",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

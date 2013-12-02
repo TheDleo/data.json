@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Ethiopia",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"18ef38bb-dbf8-4607-9ffd-0d3ba5c5eb37",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Ethiopia.xml",
+		"format":"xml"
+		}],
+		"spatial": "Ethiopia",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

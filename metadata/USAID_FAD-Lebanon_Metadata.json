@@ -1,0 +1,20 @@
+[
+	{
+		"title":"Foreign Assistance Dashboard, Lebanon",
+		"description":"The country data on foreign assistance funds, exported from the Foreign Assistance Dashboard (foreignassistance.gov).",
+		"keyword":["foreign assistance","fad","internaional aid","financial","iati","aid","investments"],
+		"modified":"2013-09-23",
+		"publisher":"USAID",
+		"identifier":"4b97d54a-91d9-4a92-aa5c-c2048b7672f7",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"distribution": [{
+		"accessURL":"http://usaid.gov/sites/default/files/Lebanon.xml",
+		"format":"xml"
+		}],
+		"spatial": "Lebanon",
+		"language":["en-US"],
+		"landingPage":"http://foreignassistance.gov"
+	}
+]

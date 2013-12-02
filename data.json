@@ -318,7 +318,11 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/data",
+		"distribution": [{
+			"accessURL":"https://explore.data.gov/Foreign-Commerce-and-Aid/USAID-Development-Credit-Authority-Guarantee-Data-/7swc-ittd",
+			"format":"xls"
+		}]
 	},
 	{
 		"title":"Foreign Assistance Dashboard, Afghanistan",
@@ -961,7 +965,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"distribution": [{
-		"accessURL":"http://usaid.gov/sites/default/files/Congo-Democratic-Republic-of.xml",
+		"accessURL":"http://usaid.gov/sites/default/files/Congo-Democratic-Republic.xml",
 		"format":"xml"
 		}],
 		"spatial": "Democratic Republic of Congo",
