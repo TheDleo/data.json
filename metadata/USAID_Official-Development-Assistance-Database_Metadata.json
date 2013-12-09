@@ -1,0 +1,17 @@
+[
+	{
+		"title":"U.S. Official Development Assistance Database",
+		"description":"This website provides U.S. Official Development Assistance (ODA) data as defined by the Organization for Economic Co-Operation and Development (OECD), Development Assistance Committee (DAC). These data are compiled annually by the U.S. Agency for International Development (USAID) for the U.S. Government and submitted to the OECD/DAC.",
+		"keyword":["international development","economics"],
+		"modified":"2013-11-26",
+		"publisher":"USAID",
+		"identifier":"f5c4b941-f45a-46fa-ba5b-ffa63dac6d00",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"programCode":"",
+		"bureauCode":"",
+		"landingPage":"http://usoda.eads.usaidallnet.gov",
+		"accrualPeriodicity":"Annual"
+	}
+]

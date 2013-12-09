@@ -1,0 +1,17 @@
+[
+	{
+		"title":"Trade Capacity Building Database",
+		"description":"Since 2001, the U.S. Agency for International Development (USAID) has conducted an annual survey on behalf of the Office of the U.S. Trade Representative (USTR) to identify and quantify the U.S. Government's trade capacity building (TCB) activities in developing countries and transitional economies. This website offers access to the full set of that survey data, including the funding levels for the period covering FY1999–FY2012 and summary activity descriptions of each of the project activities, for the period covering FY2002–FY2012.",
+		"keyword":["trade","annual","survey","international aid"],
+		"modified":"2013-02-03",
+		"publisher":"USAID",
+		"identifier":"b5fdb963-617d-4d60-adc2-593cbbe7bb24",
+		"contactPoint":"Kate Bunting",
+		"mbox":"opendata@usaid.gov",
+		"accessLevel":"public",
+		"programCode":"",
+		"bureauCode":"",
+		"language":["en-US"],
+		"landingPage":"http://tcb.eads.usaidallnet.gov"
+	}
+]
