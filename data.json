@@ -24,8 +24,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:016","184:017","184:018","184:028","184:029","184:033","184:037"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage": "http://aiddata.org",
 		"accessLevelComment":"Owned and maintained by Development Gateway, http://www.developmentgateway.org."
@@ -40,8 +40,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"x",
-		"bureauCode":"",
+		"programCode":["184:015","184:016","184:017"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://www.statcompiler.com"
 	},
@@ -55,8 +55,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:029"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"references":["http://www.usaid.gov/sites/default/files/documents/1867/FTF-baseline-Bangladesh-Final-Report.pdf"],
@@ -75,8 +75,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:029"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"resources":["http://www.usaid.gov//sites/default/files/documents/1867/FTF%20Ghana%20Population%20Based%20Survey%20Protocol.pdf","http://www.usaid.gov/documents/1867/feed-future-ftf-population-based-survey-northern-ghana-enumerators%E2%80%99-manual"],
@@ -95,8 +95,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:029"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"resources":["http://www.ifpri.org/sites/default/files/publications/gfpr2012_ch04.pdf","http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/127346","http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/126937","http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/127491","http://www.a4nh.cgiar.org/files/2013/04/IFPRI-PRSSP_Bangladesh-WEAI-Report_Final_14-April-2013.pdf"]
@@ -111,8 +111,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:027","184:029"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://fews.net",
 		"distribution": [{
@@ -130,8 +130,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://foreignassistance.gov"
 	},
@@ -145,8 +145,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:024","184:034"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://opencitiesproject.com"
 	},
@@ -160,8 +160,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:026","184:037"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://tcb.eads.usaidallnet.gov"
 	},
@@ -175,8 +175,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:026","184:037"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://tcb.eads.usaidallnet.gov",
 		"distribution": [{
@@ -194,8 +194,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -213,8 +213,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -232,8 +232,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -251,8 +251,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -262,7 +262,7 @@
 	},
 	{
 		"title":"Development Credit Authority (DCA): Utilization and Claims",
-		"description":"USAID’s Development Credit Authority (DCA) works with investors, local financial institutions, and development organizations to design and deliver investment alternatives that unlock financing for U.S. Government priorities. Whether it’s getting working capital to promising entrepreneurs or input financing to small farmers, DCA seeks to prove the commercial viability of underserved markets so that lending and investment continues long after we exit. The Development Credit Authority (DCA) uses partial credit guarantees to mobilize local financing in developing countries. Guarantee agreements encourage private lenders to extend financing to underserved borrowers in new sectors and regions. By opening up local channels of financing, USAID is empowering entrepreneurs in developing countries at a minimal cost to the U.S. taxpayer.",
+		"description":"USAID's Development Credit Authority (DCA) works with investors, local financial institutions, and development organizations to design and deliver investment alternatives that unlock financing for U.S. Government priorities. Whether it's getting working capital to promising entrepreneurs or input financing to small farmers, DCA seeks to prove the commercial viability of underserved markets so that lending and investment continues long after we exit. The Development Credit Authority (DCA) uses partial credit guarantees to mobilize local financing in developing countries. Guarantee agreements encourage private lenders to extend financing to underserved borrowers in new sectors and regions. By opening up local channels of financing, USAID is empowering entrepreneurs in developing countries at a minimal cost to the U.S. taxpayer.",
 		"keyword":["dca","credit","financial","investments","lending","bank"],
 		"modified":"2011-12-01",
 		"publisher":"USAID",
@@ -270,8 +270,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/dca",
 		"webService":"http://explore.data.gov/resource/atqm-5nw2.json"
@@ -286,8 +286,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/dca",
 		"distribution": [{
@@ -305,8 +305,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage": "http://usaid.gov/dca",
 		"webService":"http://explore.data.gov/resource/7swc-ittd.json"
@@ -321,8 +321,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage": "http://usaid.gov/dca",
 		"distribution": [{
@@ -340,8 +340,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031","184:036","184:037"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -359,8 +359,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Afghanistan.xml",
 		"format":"application/xml"
@@ -379,8 +379,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Africa-Regional.xml",
 			"format":"application/xml"
@@ -399,8 +399,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Albania.xml",
 			"format":"application/xml"
@@ -419,8 +419,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Angola.xml",
 			"format":"application/xml"
@@ -439,8 +439,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Armenia.xml",
 			"format":"application/xml"
@@ -459,8 +459,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Asia-Regional.xml",
 			"format":"application/xml"
@@ -479,8 +479,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Azerbaijan.xml",
 			"format":"application/xml"
@@ -499,8 +499,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Balkan-Regional.xml",
 			"format":"application/xml"
@@ -519,8 +519,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bangladesh.xml",
 			"format":"application/xml"
@@ -539,8 +539,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Barbados.xml",
 			"format":"application/xml"
@@ -559,8 +559,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Belarus.xml",
 			"format":"application/xml"
@@ -579,8 +579,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Benin.xml",
 			"format":"application/xml"
@@ -599,8 +599,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bolivia.xml",
 			"format":"application/xml"
@@ -619,8 +619,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bosnis-Hercegovina.xml",
 			"format":"application/xml"
@@ -639,8 +639,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Botswana.xml",
 			"format":"application/xml"
@@ -659,8 +659,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Brazil.xml",
 			"format":"application/xml"
@@ -679,8 +679,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bulgaria.xml",
 			"format":"application/xml"
@@ -699,8 +699,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Burkina-Faso.xml",
 			"format":"application/xml"
@@ -719,8 +719,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Burma.xml",
 			"format":"application/xml"
@@ -739,8 +739,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Burundi.xml",
 			"format":"application/xml"
@@ -759,8 +759,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Cambodia.xml",
 			"format":"application/xml"
@@ -779,8 +779,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Cameroon.xml",
 			"format":"application/xml"
@@ -799,8 +799,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Cape-Verde.xml",
 			"format":"application/xml"
@@ -819,8 +819,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Caribbean-Regional.xml",
 			"format":"application/xml"
@@ -839,8 +839,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Caucasus-Regional.xml",
 			"format":"application/xml"
@@ -859,8 +859,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/CAR-Envrionment.xml",
 			"format":"application/xml"
@@ -879,8 +879,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Central-African-Republic.xml",
 		"format":"application/xml"
@@ -899,8 +899,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Central-American-Regional.xml",
 		"format":"application/xml"
@@ -919,8 +919,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Central-Asia-Regional.xml",
 		"format":"application/xml"
@@ -939,8 +939,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Chad.xml",
 		"format":"application/xml"
@@ -959,8 +959,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Chile.xml",
 		"format":"application/xml"
@@ -979,8 +979,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/China-Peoples-Republic.xml",
 		"format":"application/xml"
@@ -999,8 +999,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/China-Republic-of-(Taiwan).xml",
 		"format":"application/xml"
@@ -1019,8 +1019,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Colombia.xml",
 		"format":"application/xml"
@@ -1039,8 +1039,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Comoros.xml",
 		"format":"application/xml"
@@ -1059,8 +1059,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Congo-Democratic-Republic.xml",
 		"format":"application/xml"
@@ -1079,8 +1079,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Congo-Peoples-Republic-of-(Brazzaville).xml",
 		"format":"application/xml"
@@ -1099,8 +1099,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Costa-Rica.xml",
 		"format":"application/xml"
@@ -1119,8 +1119,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Cote-DIvoire.xml",
 		"format":"application/xml"
@@ -1139,8 +1139,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Croatia.xml",
 		"format":"application/xml"
@@ -1159,8 +1159,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Cuba.xml",
 		"format":"application/xml"
@@ -1179,8 +1179,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Cyprus.xml",
 		"format":"application/xml"
@@ -1199,8 +1199,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Czech-Republic.xml",
 		"format":"application/xml"
@@ -1219,8 +1219,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Djibouti.xml",
 		"format":"application/xml"
@@ -1239,8 +1239,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Dominican-Republic.xml",
 		"format":"application/xml"
@@ -1259,8 +1259,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/East-Africa-Regional.xml",
 		"format":"application/xml"
@@ -1279,8 +1279,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/East-Asia-Regional.xml",
 		"format":"application/xml"
@@ -1299,8 +1299,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/East-European-Regional.xml",
 		"format":"application/xml"
@@ -1319,8 +1319,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ecuador.xml",
 		"format":"application/xml"
@@ -1339,8 +1339,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/El-Salvador.xml",
 		"format":"application/xml"
@@ -1359,8 +1359,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Equatorial-Guinea.xml",
 		"format":"application/xml"
@@ -1379,8 +1379,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Eritrea.xml",
 		"format":"application/xml"
@@ -1399,8 +1399,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ethiopia.xml",
 		"format":"application/xml"
@@ -1419,8 +1419,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Eurasia-Regional.xml",
 		"format":"application/xml"
@@ -1439,8 +1439,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Fiji.xml",
 		"format":"application/xml"
@@ -1459,8 +1459,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Gabon.xml",
 		"format":"application/xml"
@@ -1479,8 +1479,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Gambia.xml",
 		"format":"application/xml"
@@ -1499,8 +1499,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Georgia.xml",
 		"format":"application/xml"
@@ -1519,8 +1519,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ghana.xml",
 		"format":"application/xml"
@@ -1539,8 +1539,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Greece.xml",
 		"format":"application/xml"
@@ -1559,8 +1559,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guatemala.xml",
 		"format":"application/xml"
@@ -1579,8 +1579,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guinea-Bissau.xml",
 		"format":"application/xml"
@@ -1599,8 +1599,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guinea.xml",
 		"format":"application/xml"
@@ -1619,8 +1619,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guyana.xml",
 		"format":"application/xml"
@@ -1639,8 +1639,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Haiti.xml",
 		"format":"application/xml"
@@ -1659,8 +1659,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Honduras.xml",
 		"format":"application/xml"
@@ -1679,8 +1679,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Hungary.xml",
 		"format":"application/xml"
@@ -1699,8 +1699,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/India.xml",
 		"format":"application/xml"
@@ -1719,8 +1719,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Indonesia.xml",
 		"format":"application/xml"
@@ -1739,8 +1739,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Iraq.xml",
 		"format":"application/xml"
@@ -1759,8 +1759,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ireland.xml",
 		"format":"application/xml"
@@ -1779,8 +1779,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Israel.xml",
 		"format":"application/xml"
@@ -1799,8 +1799,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Jamaica.xml",
 		"format":"application/xml"
@@ -1819,8 +1819,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Japan.xml",
 		"format":"application/xml"
@@ -1839,8 +1839,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Jordan.xml",
 		"format":"application/xml"
@@ -1859,8 +1859,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kazakhstan.xml",
 		"format":"application/xml"
@@ -1879,8 +1879,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kenya.xml",
 		"format":"application/xml"
@@ -1899,8 +1899,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Korea-North.xml",
 		"format":"application/xml"
@@ -1919,8 +1919,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Korea-Republic-of.xml",
 		"format":"application/xml"
@@ -1939,8 +1939,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kosovo.xml",
 		"format":"application/xml"
@@ -1959,8 +1959,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kyrgyz-Republic.xml",
 		"format":"application/xml"
@@ -1979,8 +1979,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Laos.xml",
 		"format":"application/xml"
@@ -1999,8 +1999,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Latin-America-and-Caribbean-Regional.xml",
 		"format":"application/xml"
@@ -2019,8 +2019,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Lebanon.xml",
 		"format":"application/xml"
@@ -2039,8 +2039,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Lesotho.xml",
 		"format":"application/xml"
@@ -2059,8 +2059,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Liberia.xml",
 		"format":"application/xml"
@@ -2079,8 +2079,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Libya.xml",
 		"format":"application/xml"
@@ -2099,8 +2099,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Lithuania.xml",
 		"format":"application/xml"
@@ -2119,8 +2119,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Macedonia.xml",
 		"format":"application/xml"
@@ -2139,8 +2139,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Madagascar.xml",
 		"format":"application/xml"
@@ -2159,8 +2159,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Malawi.xml",
 		"format":"application/xml"
@@ -2179,8 +2179,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Maldives.xml",
 		"format":"application/xml"
@@ -2199,8 +2199,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mali.xml",
 		"format":"application/xml"
@@ -2219,8 +2219,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Marshall-Islands.xml",
 		"format":"application/xml"
@@ -2239,8 +2239,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mauritania.xml",
 		"format":"application/xml"
@@ -2259,8 +2259,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mauritius.xml",
 		"format":"application/xml"
@@ -2279,8 +2279,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mexico.xml",
 		"format":"application/xml"
@@ -2299,8 +2299,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Micronesia.xml",
 		"format":"application/xml"
@@ -2319,8 +2319,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Middle-East-Regional.xml",
 		"format":"application/xml"
@@ -2339,8 +2339,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Moldova.xml",
 		"format":"application/xml"
@@ -2359,8 +2359,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mongolia.xml",
 		"format":"application/xml"
@@ -2379,8 +2379,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Montenegro.xml",
 		"format":"application/xml"
@@ -2399,8 +2399,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Morocco.xml",
 		"format":"application/xml"
@@ -2419,8 +2419,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mozambique.xml",
 		"format":"application/xml"
@@ -2439,8 +2439,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Namibia.xml",
 		"format":"application/xml"
@@ -2459,8 +2459,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Near-East-Regional.xml",
 		"format":"application/xml"
@@ -2479,8 +2479,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Nepal.xml",
 		"format":"application/xml"
@@ -2499,8 +2499,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Nicaragua.xml",
 		"format":"application/xml"
@@ -2519,8 +2519,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Niger.xml",
 		"format":"application/xml"
@@ -2539,8 +2539,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Nigeria.xml",
 		"format":"application/xml"
@@ -2559,8 +2559,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/North-Sudan.xml",
 		"format":"application/xml"
@@ -2579,8 +2579,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Pakistan.xml",
 		"format":"application/xml"
@@ -2599,8 +2599,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Palau-Islands.xml",
 		"format":"application/xml"
@@ -2619,8 +2619,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Panama.xml",
 		"format":"application/xml"
@@ -2639,8 +2639,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Papua-New-Guinea.xml",
 		"format":"application/xml"
@@ -2659,8 +2659,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Paraguay.xml",
 		"format":"application/xml"
@@ -2679,8 +2679,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Peru.xml",
 		"format":"application/xml"
@@ -2699,8 +2699,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Philippines.xml",
 		"format":"application/xml"
@@ -2719,8 +2719,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Romania.xml",
 		"format":"application/xml"
@@ -2739,8 +2739,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Russia.xml",
 		"format":"application/xml"
@@ -2759,8 +2759,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Rwanda.xml",
 		"format":"application/xml"
@@ -2779,8 +2779,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sao-Tome-and-Principe.xml",
 		"format":"application/xml"
@@ -2799,8 +2799,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Senegal.xml",
 		"format":"application/xml"
@@ -2819,8 +2819,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Serbia.xml",
 		"format":"application/xml"
@@ -2839,8 +2839,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Seychelles.xml",
 		"format":"application/xml"
@@ -2859,8 +2859,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sierra-Leone.xml",
 		"format":"application/xml"
@@ -2879,8 +2879,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Solomon-Islands.xml",
 		"format":"application/xml"
@@ -2899,8 +2899,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Somalia.xml",
 		"format":"application/xml"
@@ -2919,8 +2919,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Africa-Regional.xml",
 		"format":"application/xml"
@@ -2939,8 +2939,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Africa.xml",
 		"format":"application/xml"
@@ -2959,8 +2959,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-America-Regional.xml",
 		"format":"application/xml"
@@ -2979,8 +2979,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Asia-Regional.xml",
 		"format":"application/xml"
@@ -2999,8 +2999,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Pacific-Regional.xml",
 		"format":"application/xml"
@@ -3019,8 +3019,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Sudan.xml",
 		"format":"application/xml"
@@ -3039,8 +3039,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sri-Lanka.xml",
 		"format":"application/xml"
@@ -3059,8 +3059,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sudan-Pre-2011-Election.xml",
 		"format":"application/xml"
@@ -3079,8 +3079,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Swaziland.xml",
 		"format":"application/xml"
@@ -3099,8 +3099,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Syria.xml",
 		"format":"application/xml"
@@ -3119,8 +3119,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tajikistan.xml",
 		"format":"application/xml"
@@ -3139,8 +3139,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tanzania.xml",
 		"format":"application/xml"
@@ -3159,8 +3159,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Thailand.xml",
 		"format":"application/xml"
@@ -3179,8 +3179,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Timor-Leste.xml",
 		"format":"application/xml"
@@ -3199,8 +3199,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Togo.xml",
 		"format":"application/xml"
@@ -3219,8 +3219,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tonga.xml",
 		"format":"application/xml"
@@ -3239,8 +3239,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tunisia.xml",
 		"format":"application/xml"
@@ -3259,8 +3259,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Turkey.xml",
 		"format":"application/xml"
@@ -3279,8 +3279,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Turkmenistan.xml",
 		"format":"application/xml"
@@ -3299,8 +3299,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Uganda.xml",
 		"format":"application/xml"
@@ -3319,8 +3319,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ukraine.xml",
 		"format":"application/xml"
@@ -3339,8 +3339,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/United-Arab-Emirates.xml",
 		"format":"application/xml"
@@ -3359,8 +3359,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Uzbekistan.xml",
 		"format":"application/xml"
@@ -3379,8 +3379,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Vanuatu.xml",
 		"format":"application/xml"
@@ -3399,8 +3399,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Venezuela.xml",
 		"format":"application/xml"
@@ -3419,8 +3419,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Vietnam.xml",
 		"format":"application/xml"
@@ -3439,8 +3439,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/West-Africa-Regional.xml",
 		"format":"application/xml"
@@ -3459,8 +3459,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/West-Bank-and-Gaza.xml",
 			"format":"application/xml"
@@ -3479,8 +3479,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Western-Samoa.xml",
 		"format":"application/xml"
@@ -3499,8 +3499,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Worldwide.xml",
 		"format":"application/xml"
@@ -3519,8 +3519,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Yemen.xml",
 		"format":"application/xml"
@@ -3539,8 +3539,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Yugoslavia.xml",
 		"format":"application/xml"
@@ -3559,8 +3559,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Zambia.xml",
 		"format":"application/xml"
@@ -3579,8 +3579,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:022","184:024","184:025","184:027"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Zimbabwe.xml",
 		"format":"application/xml"
@@ -3591,7 +3591,7 @@
 	},
 	{
 		"title":"USAID Forward",
-		"description":"For each of the eight topline indicators chosen to monitor USAID’s progress toward implementing its USAID Forward agenda a spreadsheet containing the data used to develop the USAID Forward Progress Report 2013.  Indicators are included for each goal: Focused strategic planning, Improved decision making, Strengthen and retain the best talent, Strengthen local capacity, Strengthen staff capacity, Scale up & leverage private resources, Maximize resources by leveraging commercial private capital, and Accelerate financial inclusion.",
+		"description":"For each of the eight topline indicators chosen to monitor USAID's progress toward implementing its USAID Forward agenda a spreadsheet containing the data used to develop the USAID Forward Progress Report 2013.  Indicators are included for each goal: Focused strategic planning, Improved decision making, Strengthen and retain the best talent, Strengthen local capacity, Strengthen staff capacity, Scale up & leverage private resources, Maximize resources by leveraging commercial private capital, and Accelerate financial inclusion.",
 		"keyword":["usaid forward","open data","transparency","strategy","capacity"],
 		"modified":"2013-10-25",
 		"publisher":"USAID",
@@ -3599,10 +3599,10 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/forward"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Focus Strategic Planning",
@@ -3614,15 +3614,15 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Forward-Data-Country-Development-Cooperation-Strategies.csv",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://foreignassistance.gov"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Improved decision-making",
@@ -3634,15 +3634,15 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Forward-Data-Evaluations.csv",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Strengthen and retain best talent",
@@ -3654,15 +3654,15 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_Mentoring.csv",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Strengthen local capacity",
@@ -3674,15 +3674,15 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Strengthen-local-capacity.csv",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Strengthen staff capacity",
@@ -3694,15 +3694,15 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Strengthen-staff-capacity.csv",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Scale up and leverage private resources",
@@ -3714,18 +3714,18 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_PublicPrivatePartnerships.csv",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
-		"title":"USAID Forward, Scale up and leverage private resources",
+		"title":"USAID Forward, Accelerate financial inclusion, improve transparency and catalyze private sector development",
 		"description":"USAID Forward is an effort to strengthen the Agency by embracing new partnerships, investing in the catalytic role of innovation and demanding a relentless focus on results. This data corresponds to Annex I of the agency's first progress report. The goals and metrics are reflected in each table.",
 		"keyword":["usaid forward","open data","transparency","strategy","capacity"],
 		"modified":"2013-09-23",
@@ -3734,15 +3734,15 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
-			"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_PublicPrivatePartnerships.xlsx",
+			"accessURL":"http://www.usaid.gov/sites/default/files/Forward-Data-Mobile-Money.xlsx",
 			"format":"text/csv"
 		}],
 		"references":["http://www.usaid.gov/sites/default/files/documents/1868/2013-usaid-forward-report.pdf"],
 		"language":["en-US"],
-		"landingPage":"http://usaid.gov/data"
+		"landingPage":"http://usaid.gov/usaidforward"
 	},
 	{
 		"title":"USAID Forward, Maximize resources by leveraging commercial private capital",
@@ -3754,8 +3754,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:036","184:037"],
+		"bureauCode":"184:015",
 		"distribution": [{
 		"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_DevelopmentCreditAuthority.xls",
 		"format":"text/csv"
@@ -3774,14 +3774,14 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:031"],
+		"bureauCode":"184:015",
 		"landingPage":"http://usoda.eads.usaidallnet.gov",
 		"accrualPeriodicity":"Annual"
 	},
 	{
 		"title":"Development Experience Clearinghouse (DEC)",
-		"description":"The DEC is a publicly available document repository for over 160,000 technical and programmatic documents related to USAID programming that is managed by USAID’s Knowledge Services Center in the CIO. Users can search and view the majority of documents that are submitted by both implementing partners and USAID staff.",
+		"description":"The DEC is a publicly available document repository for over 160,000 technical and programmatic documents related to USAID programming that is managed by USAID's Knowledge Services Center in the CIO. Users can search and view the majority of documents that are submitted by both implementing partners and USAID staff.",
 		"keyword":["usaid"],
 		"modified":"2013-11-26",
 		"publisher":"USAID",
@@ -3789,8 +3789,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:037"],
+		"bureauCode":"184:015",
 		"landingPage":"http://dec.usaid.gov"
 	},
 	{
@@ -3803,8 +3803,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:037"],
+		"bureauCode":"184:015",
 		"landingPage":"http://eads.usaidallnet.gov"
 	},
 	{
@@ -3817,8 +3817,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:027","184:028","184:031"],
+		"bureauCode":"184:015",
 		"landingPage": "http://gbk.eads.usaidallnet.gov/data/",
 		"webService":"http://explore.data.gov/resource/668u-5wrc.json",
 		"accrualPeriodicity":"Annual"
@@ -3833,8 +3833,8 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:025","184:027","184:028","184:031"],
+		"bureauCode":"184:015",
 		"landingPage": "http://gbk.eads.usaidallnet.gov/data/",
 		"accrualPeriodicity":"Annual",
 		"distribution": [{
@@ -3852,22 +3852,22 @@
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:029"],
+		"bureauCode":"184:015",
 		"landingPage": "http://www.fews.net/"
 	},
 	{
 		"title":"The USAID Environmental Compliance Database",
 		"description":"",
-		"keyword":[""],
+		"keyword":["environment","compliance"],
 		"modified":"2013-11-26",
 		"publisher":"USAID",
 		"identifier":"bb23de34-fc2b-4be9-a40d-a0f56450ac06",
 		"contactPoint":"Kate Bunting",
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
-		"programCode":"",
-		"bureauCode":"",
+		"programCode":["184:184:037"],
+		"bureauCode":"184:015",
 		"language":["en-US"],
 		"landingPage": "http://gemini.info.usaid.gov/egat/envcomp/"
 	}
