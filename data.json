@@ -25,7 +25,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:016","184:017","184:018","184:028","184:029","184:033","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage": "http://aiddata.org",
 		"accessLevelComment":"Owned and maintained by Development Gateway, http://www.developmentgateway.org."
@@ -41,7 +41,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:015","184:016","184:017"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://www.statcompiler.com"
 	},
@@ -56,7 +56,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:029"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"references":["http://www.usaid.gov/sites/default/files/documents/1867/FTF-baseline-Bangladesh-Final-Report.pdf"],
@@ -76,7 +76,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:029"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"resources":["http://www.usaid.gov//sites/default/files/documents/1867/FTF%20Ghana%20Population%20Based%20Survey%20Protocol.pdf","http://www.usaid.gov/documents/1867/feed-future-ftf-population-based-survey-northern-ghana-enumerators%E2%80%99-manual"],
@@ -96,7 +96,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:029"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"resources":["http://www.ifpri.org/sites/default/files/publications/gfpr2012_ch04.pdf","http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/127346","http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/126937","http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/127491","http://www.a4nh.cgiar.org/files/2013/04/IFPRI-PRSSP_Bangladesh-WEAI-Report_Final_14-April-2013.pdf"]
@@ -112,7 +112,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:027","184:029"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://fews.net",
 		"distribution": [{
@@ -131,7 +131,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://foreignassistance.gov"
 	},
@@ -146,7 +146,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:024","184:034"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://opencitiesproject.com"
 	},
@@ -161,7 +161,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:026","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://tcb.eads.usaidallnet.gov"
 	},
@@ -176,7 +176,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:026","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://tcb.eads.usaidallnet.gov",
 		"distribution": [{
@@ -195,7 +195,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -214,7 +214,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -233,7 +233,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -252,7 +252,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -271,7 +271,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/dca",
 		"webService":"http://explore.data.gov/resource/atqm-5nw2.json"
@@ -287,7 +287,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/dca",
 		"distribution": [{
@@ -306,7 +306,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage": "http://usaid.gov/dca",
 		"webService":"http://explore.data.gov/resource/7swc-ittd.json"
@@ -322,7 +322,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage": "http://usaid.gov/dca",
 		"distribution": [{
@@ -341,7 +341,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031","184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/data",
 		"distribution": [{
@@ -360,7 +360,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Afghanistan.xml",
 		"format":"application/xml"
@@ -380,7 +380,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Africa-Regional.xml",
 			"format":"application/xml"
@@ -400,7 +400,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Albania.xml",
 			"format":"application/xml"
@@ -420,7 +420,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Angola.xml",
 			"format":"application/xml"
@@ -440,7 +440,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Armenia.xml",
 			"format":"application/xml"
@@ -460,7 +460,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Asia-Regional.xml",
 			"format":"application/xml"
@@ -480,7 +480,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Azerbaijan.xml",
 			"format":"application/xml"
@@ -500,7 +500,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Balkan-Regional.xml",
 			"format":"application/xml"
@@ -520,7 +520,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bangladesh.xml",
 			"format":"application/xml"
@@ -540,7 +540,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Barbados.xml",
 			"format":"application/xml"
@@ -560,7 +560,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Belarus.xml",
 			"format":"application/xml"
@@ -580,7 +580,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Benin.xml",
 			"format":"application/xml"
@@ -600,7 +600,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bolivia.xml",
 			"format":"application/xml"
@@ -620,7 +620,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bosnis-Hercegovina.xml",
 			"format":"application/xml"
@@ -640,7 +640,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Botswana.xml",
 			"format":"application/xml"
@@ -660,7 +660,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Brazil.xml",
 			"format":"application/xml"
@@ -680,7 +680,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Bulgaria.xml",
 			"format":"application/xml"
@@ -700,7 +700,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Burkina-Faso.xml",
 			"format":"application/xml"
@@ -720,7 +720,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Burma.xml",
 			"format":"application/xml"
@@ -740,7 +740,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Burundi.xml",
 			"format":"application/xml"
@@ -760,7 +760,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Cambodia.xml",
 			"format":"application/xml"
@@ -780,7 +780,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Cameroon.xml",
 			"format":"application/xml"
@@ -800,7 +800,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Cape-Verde.xml",
 			"format":"application/xml"
@@ -820,7 +820,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Caribbean-Regional.xml",
 			"format":"application/xml"
@@ -840,7 +840,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/Caucasus-Regional.xml",
 			"format":"application/xml"
@@ -860,7 +860,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/CAR-Envrionment.xml",
 			"format":"application/xml"
@@ -880,7 +880,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Central-African-Republic.xml",
 		"format":"application/xml"
@@ -900,7 +900,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Central-American-Regional.xml",
 		"format":"application/xml"
@@ -920,7 +920,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Central-Asia-Regional.xml",
 		"format":"application/xml"
@@ -940,7 +940,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Chad.xml",
 		"format":"application/xml"
@@ -960,7 +960,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Chile.xml",
 		"format":"application/xml"
@@ -980,7 +980,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/China-Peoples-Republic.xml",
 		"format":"application/xml"
@@ -1000,7 +1000,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/China-Republic-of-(Taiwan).xml",
 		"format":"application/xml"
@@ -1020,7 +1020,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Colombia.xml",
 		"format":"application/xml"
@@ -1040,7 +1040,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Comoros.xml",
 		"format":"application/xml"
@@ -1060,7 +1060,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Congo-Democratic-Republic.xml",
 		"format":"application/xml"
@@ -1080,7 +1080,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Congo-Peoples-Republic-of-(Brazzaville).xml",
 		"format":"application/xml"
@@ -1100,7 +1100,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Costa-Rica.xml",
 		"format":"application/xml"
@@ -1120,7 +1120,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Cote-DIvoire.xml",
 		"format":"application/xml"
@@ -1140,7 +1140,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Croatia.xml",
 		"format":"application/xml"
@@ -1160,7 +1160,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Cuba.xml",
 		"format":"application/xml"
@@ -1180,7 +1180,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Cyprus.xml",
 		"format":"application/xml"
@@ -1200,7 +1200,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Czech-Republic.xml",
 		"format":"application/xml"
@@ -1220,7 +1220,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Djibouti.xml",
 		"format":"application/xml"
@@ -1240,7 +1240,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Dominican-Republic.xml",
 		"format":"application/xml"
@@ -1260,7 +1260,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/East-Africa-Regional.xml",
 		"format":"application/xml"
@@ -1280,7 +1280,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/East-Asia-Regional.xml",
 		"format":"application/xml"
@@ -1300,7 +1300,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/East-European-Regional.xml",
 		"format":"application/xml"
@@ -1320,7 +1320,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ecuador.xml",
 		"format":"application/xml"
@@ -1340,7 +1340,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/El-Salvador.xml",
 		"format":"application/xml"
@@ -1360,7 +1360,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Equatorial-Guinea.xml",
 		"format":"application/xml"
@@ -1380,7 +1380,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Eritrea.xml",
 		"format":"application/xml"
@@ -1400,7 +1400,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ethiopia.xml",
 		"format":"application/xml"
@@ -1420,7 +1420,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Eurasia-Regional.xml",
 		"format":"application/xml"
@@ -1440,7 +1440,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Fiji.xml",
 		"format":"application/xml"
@@ -1460,7 +1460,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Gabon.xml",
 		"format":"application/xml"
@@ -1480,7 +1480,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Gambia.xml",
 		"format":"application/xml"
@@ -1500,7 +1500,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Georgia.xml",
 		"format":"application/xml"
@@ -1520,7 +1520,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ghana.xml",
 		"format":"application/xml"
@@ -1540,7 +1540,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Greece.xml",
 		"format":"application/xml"
@@ -1560,7 +1560,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guatemala.xml",
 		"format":"application/xml"
@@ -1580,7 +1580,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guinea-Bissau.xml",
 		"format":"application/xml"
@@ -1600,7 +1600,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guinea.xml",
 		"format":"application/xml"
@@ -1620,7 +1620,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Guyana.xml",
 		"format":"application/xml"
@@ -1640,7 +1640,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Haiti.xml",
 		"format":"application/xml"
@@ -1660,7 +1660,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Honduras.xml",
 		"format":"application/xml"
@@ -1680,7 +1680,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Hungary.xml",
 		"format":"application/xml"
@@ -1700,7 +1700,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/India.xml",
 		"format":"application/xml"
@@ -1720,7 +1720,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Indonesia.xml",
 		"format":"application/xml"
@@ -1740,7 +1740,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Iraq.xml",
 		"format":"application/xml"
@@ -1760,7 +1760,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ireland.xml",
 		"format":"application/xml"
@@ -1780,7 +1780,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Israel.xml",
 		"format":"application/xml"
@@ -1800,7 +1800,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Jamaica.xml",
 		"format":"application/xml"
@@ -1820,7 +1820,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Japan.xml",
 		"format":"application/xml"
@@ -1840,7 +1840,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Jordan.xml",
 		"format":"application/xml"
@@ -1860,7 +1860,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kazakhstan.xml",
 		"format":"application/xml"
@@ -1880,7 +1880,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kenya.xml",
 		"format":"application/xml"
@@ -1900,7 +1900,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Korea-North.xml",
 		"format":"application/xml"
@@ -1920,7 +1920,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Korea-Republic-of.xml",
 		"format":"application/xml"
@@ -1940,7 +1940,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kosovo.xml",
 		"format":"application/xml"
@@ -1960,7 +1960,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Kyrgyz-Republic.xml",
 		"format":"application/xml"
@@ -1980,7 +1980,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Laos.xml",
 		"format":"application/xml"
@@ -2000,7 +2000,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Latin-America-and-Caribbean-Regional.xml",
 		"format":"application/xml"
@@ -2020,7 +2020,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Lebanon.xml",
 		"format":"application/xml"
@@ -2040,7 +2040,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Lesotho.xml",
 		"format":"application/xml"
@@ -2060,7 +2060,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Liberia.xml",
 		"format":"application/xml"
@@ -2080,7 +2080,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Libya.xml",
 		"format":"application/xml"
@@ -2100,7 +2100,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Lithuania.xml",
 		"format":"application/xml"
@@ -2120,7 +2120,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Macedonia.xml",
 		"format":"application/xml"
@@ -2140,7 +2140,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Madagascar.xml",
 		"format":"application/xml"
@@ -2160,7 +2160,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Malawi.xml",
 		"format":"application/xml"
@@ -2180,7 +2180,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Maldives.xml",
 		"format":"application/xml"
@@ -2200,7 +2200,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mali.xml",
 		"format":"application/xml"
@@ -2220,7 +2220,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Marshall-Islands.xml",
 		"format":"application/xml"
@@ -2240,7 +2240,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mauritania.xml",
 		"format":"application/xml"
@@ -2260,7 +2260,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mauritius.xml",
 		"format":"application/xml"
@@ -2280,7 +2280,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mexico.xml",
 		"format":"application/xml"
@@ -2300,7 +2300,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Micronesia.xml",
 		"format":"application/xml"
@@ -2320,7 +2320,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Middle-East-Regional.xml",
 		"format":"application/xml"
@@ -2340,7 +2340,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Moldova.xml",
 		"format":"application/xml"
@@ -2360,7 +2360,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mongolia.xml",
 		"format":"application/xml"
@@ -2380,7 +2380,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Montenegro.xml",
 		"format":"application/xml"
@@ -2400,7 +2400,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Morocco.xml",
 		"format":"application/xml"
@@ -2420,7 +2420,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Mozambique.xml",
 		"format":"application/xml"
@@ -2440,7 +2440,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Namibia.xml",
 		"format":"application/xml"
@@ -2460,7 +2460,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Near-East-Regional.xml",
 		"format":"application/xml"
@@ -2480,7 +2480,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Nepal.xml",
 		"format":"application/xml"
@@ -2500,7 +2500,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Nicaragua.xml",
 		"format":"application/xml"
@@ -2520,7 +2520,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Niger.xml",
 		"format":"application/xml"
@@ -2540,7 +2540,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Nigeria.xml",
 		"format":"application/xml"
@@ -2560,7 +2560,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/North-Sudan.xml",
 		"format":"application/xml"
@@ -2580,7 +2580,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Pakistan.xml",
 		"format":"application/xml"
@@ -2600,7 +2600,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Palau-Islands.xml",
 		"format":"application/xml"
@@ -2620,7 +2620,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Panama.xml",
 		"format":"application/xml"
@@ -2640,7 +2640,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Papua-New-Guinea.xml",
 		"format":"application/xml"
@@ -2660,7 +2660,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Paraguay.xml",
 		"format":"application/xml"
@@ -2680,7 +2680,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Peru.xml",
 		"format":"application/xml"
@@ -2700,7 +2700,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Philippines.xml",
 		"format":"application/xml"
@@ -2720,7 +2720,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Romania.xml",
 		"format":"application/xml"
@@ -2740,7 +2740,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Russia.xml",
 		"format":"application/xml"
@@ -2760,7 +2760,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Rwanda.xml",
 		"format":"application/xml"
@@ -2780,7 +2780,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sao-Tome-and-Principe.xml",
 		"format":"application/xml"
@@ -2800,7 +2800,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Senegal.xml",
 		"format":"application/xml"
@@ -2820,7 +2820,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Serbia.xml",
 		"format":"application/xml"
@@ -2840,7 +2840,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Seychelles.xml",
 		"format":"application/xml"
@@ -2860,7 +2860,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sierra-Leone.xml",
 		"format":"application/xml"
@@ -2880,7 +2880,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Solomon-Islands.xml",
 		"format":"application/xml"
@@ -2900,7 +2900,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Somalia.xml",
 		"format":"application/xml"
@@ -2920,7 +2920,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Africa-Regional.xml",
 		"format":"application/xml"
@@ -2940,7 +2940,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Africa.xml",
 		"format":"application/xml"
@@ -2960,7 +2960,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-America-Regional.xml",
 		"format":"application/xml"
@@ -2980,7 +2980,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Asia-Regional.xml",
 		"format":"application/xml"
@@ -3000,7 +3000,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Pacific-Regional.xml",
 		"format":"application/xml"
@@ -3020,7 +3020,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/South-Sudan.xml",
 		"format":"application/xml"
@@ -3040,7 +3040,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sri-Lanka.xml",
 		"format":"application/xml"
@@ -3060,7 +3060,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Sudan-Pre-2011-Election.xml",
 		"format":"application/xml"
@@ -3080,7 +3080,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Swaziland.xml",
 		"format":"application/xml"
@@ -3100,7 +3100,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Syria.xml",
 		"format":"application/xml"
@@ -3120,7 +3120,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tajikistan.xml",
 		"format":"application/xml"
@@ -3140,7 +3140,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tanzania.xml",
 		"format":"application/xml"
@@ -3160,7 +3160,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Thailand.xml",
 		"format":"application/xml"
@@ -3180,7 +3180,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Timor-Leste.xml",
 		"format":"application/xml"
@@ -3200,7 +3200,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Togo.xml",
 		"format":"application/xml"
@@ -3220,7 +3220,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tonga.xml",
 		"format":"application/xml"
@@ -3240,7 +3240,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Tunisia.xml",
 		"format":"application/xml"
@@ -3260,7 +3260,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Turkey.xml",
 		"format":"application/xml"
@@ -3280,7 +3280,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Turkmenistan.xml",
 		"format":"application/xml"
@@ -3300,7 +3300,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Uganda.xml",
 		"format":"application/xml"
@@ -3320,7 +3320,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Ukraine.xml",
 		"format":"application/xml"
@@ -3340,7 +3340,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/United-Arab-Emirates.xml",
 		"format":"application/xml"
@@ -3360,7 +3360,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Uzbekistan.xml",
 		"format":"application/xml"
@@ -3380,7 +3380,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Vanuatu.xml",
 		"format":"application/xml"
@@ -3400,7 +3400,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Venezuela.xml",
 		"format":"application/xml"
@@ -3420,7 +3420,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Vietnam.xml",
 		"format":"application/xml"
@@ -3440,7 +3440,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/West-Africa-Regional.xml",
 		"format":"application/xml"
@@ -3460,7 +3460,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://usaid.gov/sites/default/files/West-Bank-and-Gaza.xml",
 			"format":"application/xml"
@@ -3480,7 +3480,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Western-Samoa.xml",
 		"format":"application/xml"
@@ -3500,7 +3500,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Worldwide.xml",
 		"format":"application/xml"
@@ -3520,7 +3520,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Yemen.xml",
 		"format":"application/xml"
@@ -3540,7 +3540,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Yugoslavia.xml",
 		"format":"application/xml"
@@ -3560,7 +3560,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Zambia.xml",
 		"format":"application/xml"
@@ -3580,7 +3580,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:022","184:024","184:025","184:027"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://usaid.gov/sites/default/files/Zimbabwe.xml",
 		"format":"application/xml"
@@ -3600,7 +3600,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage":"http://usaid.gov/usaidforward"
 	},
@@ -3615,7 +3615,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Forward-Data-Country-Development-Cooperation-Strategies.csv",
 			"format":"text/csv"
@@ -3635,7 +3635,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Forward-Data-Evaluations.csv",
 			"format":"text/csv"
@@ -3655,7 +3655,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_Mentoring.csv",
 			"format":"text/csv"
@@ -3675,7 +3675,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Strengthen-local-capacity.csv",
 			"format":"text/csv"
@@ -3695,7 +3695,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Strengthen-staff-capacity.csv",
 			"format":"text/csv"
@@ -3715,7 +3715,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_PublicPrivatePartnerships.csv",
 			"format":"text/csv"
@@ -3735,7 +3735,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 			"accessURL":"http://www.usaid.gov/sites/default/files/Forward-Data-Mobile-Money.xlsx",
 			"format":"text/csv"
@@ -3755,7 +3755,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:036","184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"distribution": [{
 		"accessURL":"http://www.usaid.gov/sites/default/files/ForwardData_DevelopmentCreditAuthority.xls",
 		"format":"text/csv"
@@ -3775,7 +3775,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"landingPage":"http://usoda.eads.usaidallnet.gov",
 		"accrualPeriodicity":"Annual"
 	},
@@ -3790,7 +3790,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"landingPage":"http://dec.usaid.gov"
 	},
 	{
@@ -3804,7 +3804,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"landingPage":"http://eads.usaidallnet.gov"
 	},
 	{
@@ -3818,7 +3818,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:027","184:028","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"landingPage": "http://gbk.eads.usaidallnet.gov/data/",
 		"webService":"http://explore.data.gov/resource/668u-5wrc.json",
 		"accrualPeriodicity":"Annual"
@@ -3834,7 +3834,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:025","184:027","184:028","184:031"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"landingPage": "http://gbk.eads.usaidallnet.gov/data/",
 		"accrualPeriodicity":"Annual",
 		"distribution": [{
@@ -3853,7 +3853,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:029"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"landingPage": "http://www.fews.net/"
 	},
 	{
@@ -3867,7 +3867,7 @@
 		"mbox":"opendata@usaid.gov",
 		"accessLevel":"public",
 		"programCode":["184:184:037"],
-		"bureauCode":"184:015",
+		"bureauCode":["184:015"],
 		"language":["en-US"],
 		"landingPage": "http://gemini.info.usaid.gov/egat/envcomp/"
 	}
